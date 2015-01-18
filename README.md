@@ -1,3 +1,4 @@
 This repository contains some bootstrap autotools projects:
 
-- [helloworld-glib](https://github.com/snowch/autoconf-bootstrap-projects/tree/master/helloworld-glib) - helloworld project that uses glib
+- [helloworld](./helloworld-glib) - helloworld c project
+- [helloworld-glib](./helloworld-glib) - helloworld c project that uses glib
