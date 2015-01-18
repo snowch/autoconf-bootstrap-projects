@@ -10,5 +10,5 @@ autoreconf -i
 touch NEWS README AUTHORS ChangeLog
 automake -a
 make
-make test
+make install
 ```
