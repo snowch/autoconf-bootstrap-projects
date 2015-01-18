@@ -8,5 +8,5 @@ Basic tests for each project:
 ```bash
 $ autoreconf -i
 $ touch NEWS README AUTHORS ChangeLog
-$  automake -a
+$ automake -a
 ```
