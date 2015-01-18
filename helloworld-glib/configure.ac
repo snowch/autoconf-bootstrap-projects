@@ -1,4 +1,4 @@
-AC_INIT([myproject], [123], [flameeyes@flameeyes.eu], [http://blog.flameeyes.eu/tag/autotoolsmythbuster])
+AC_INIT([myproject], [123], [me@example.com], [http://example.com])
 
 PKG_CHECK_MODULES([GLIB], [glib-2.0 >= 2.3.0])
 AC_SUBST([GLIB_CFLAGS])
