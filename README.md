@@ -9,6 +9,7 @@ Basic steps for each project:
 autoreconf -i
 touch NEWS README AUTHORS ChangeLog
 automake -a
+./configure
 make all
 ./src/helloworld
 ```
